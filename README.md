@@ -28,7 +28,14 @@ This project was created exclusively for learning purposes. While it has served 
 Your feedback and contributions, though appreciated, may not be actively solicited for this particular project..
 
 ## Screenshots:
-(Include screenshots of your application to provide a visual representation.)
+<img src="Goaltrack/imagens/Loginscreen.bmp" alt="Image Alt Text" width="300" height="400">
+<div style="display: flex; justify-content: space-between;">
+  <img src="Goaltrack/imagens/Goals%20screen.bmp" alt="Image Alt Text" width="300" height="220"><img src="Goaltrack/imagens/Tasks%20screen.bmp" alt="Image Alt Text" width="300" height="220">
+  </div>
+<div style="display: flex; justify-content: space-between;">
+    <img src="Goaltrack/imagens/Funcionalidades%201.bmp" alt="Image Alt Text" width="300" height="200">
+    <img src="Goaltrack/imagens/funcionalidades2.bmp" alt="Image Alt Text" width="300" height="200">
+</div>
 
 ## How to Run:
 To use the application without errors, you should first use the provided Python program to create the database and its respective tables.
