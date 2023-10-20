@@ -38,9 +38,12 @@ Your feedback and contributions, though appreciated, may not be actively solicit
 </div>
 
 ## How to Run:
-To use the application without errors, you should first use the provided Python program to create the database and its respective tables.
-Please note that you will need an SQL server like XAMPP for this process.
-The program includes an option to add three goals and some tasks to the database, making it easier to visualize how the application functions
+To use the application without errors, follow these steps:
+1. **Create the Database:** Use the provided Python program to create the database and its respective tables. You can find this program in the `criador_bd_e_tb.py` file.
+2. **SQL Server Requirement:** Please note that you will need an SQL server like XAMPP to host the database. You can download XAMPP [here](https://www.apachefriends.org/index.html).
+3. **Sample Data (Optional):** The program includes an option to add three goals and some tasks to the database, making it easier to visualize how the application functions.
+4. **Database Prototype:** Inside the `goaltrack` folder, you'll find the first draft of how the database was prototyped. Check out the `.drawio` file to get insights into the database structure.
+This guide will help you set up and run the Goal Tracker App seamlessly.
 
 ## Future Enhancements:
 (I'm not sure if im going to revisit this project since it was just for learning purposes)
